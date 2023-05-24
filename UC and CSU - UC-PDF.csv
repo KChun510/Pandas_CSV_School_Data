@@ -1,0 +1,103 @@
+Classes,"University of California, Berkeley, Computer Science, Lower Division B.A. (Demo)","University of California, Santa Cruz, Computer Science B.A. (Demo)","University of California, Santa Barbara, Computer Science, B.S. (Demo)","University of California, Berkeley, Computer Science, Lower Division B.A.","University of California, Berkeley, Electrical Engineering & Computer Sciences, Lower Division B.S.","University of California, Davis, Computer Engineering B.S.","University of California, Davis, Computer Science & Engineering B.S.","University of California, Davis, Computer Science B.S.","University of California, Irvine, Computer Engineering, B.S.","University of California, Irvine, Computer Science and Engineering, B.S.","University of California, Irvine, Computer Science, B.S.","University of California, Los Angeles, Computer Engineering/B.S.","University of California, Los Angeles, Computer Science and Engineering/B.S.","University of California, Los Angeles, Computer Science/B.S.","University of California, Los Angeles, Linguistics and Computer Science/B.A.","University of California, Merced, Applied Mathematical Sciences, Computer Science Emphasis, B.S.","University of California, Merced, Computer Science and Engineering, B.S.","University of California, Riverside, Computer Engineering, B.S.","University of California, Riverside, Computer Science with Business Applications B.S.","University of California, Riverside, Computer Science, B.S.","University of California, San Diego, Art: Interdisciplinary Computing in the Arts Major (ICAM) B.A. (Visual Arts)","University of California, San Diego, CSE: Computer Engineering B.S.","University of California, San Diego, CSE: Computer Science B.S.","University of California, San Diego, CSE: Computer Science with a Specialization in Bioinformatics B.S.","University of California, San Diego, ECE: Computer Engineering B.S.","University of California, San Diego, Mathematics/Computer Science B.S.","University of California, San Diego, Music: Interdisciplinary Computing in the Arts Major (ICAM) B.A.","University of California, Santa Barbara, Computer Engineering, B.S.","University of California, Santa Barbara, Computer Science, B.S.","University of California, Santa Barbara, Creative Studies - Computing, B.S.","University of California, Santa Cruz, Computer Engineering B.S.","University of California, Santa Cruz, Computer Science B.A.","University of California, Santa Cruz, Computer Science B.S.","University of California, Santa Cruz, Computer Science B.S.","University of California, Santa Cruz, Computer Science: Computer Game Design B.S."
+MATH,MATH 3A,MATH 3A,MATH 3A,MATH 3A,MATH 1B,MATH 021A,None,None,MATH 3B,MATH 2B,MATH 3A,MATH 3A,MATH 318,MATH 3A,MATH 3A,MATH 3A,MATH 021,MATH 9A,MATH 9A,MATH 9A,MATH 16A,MATH As:,MATH 11,MATH 3,MATH 11,None,None,MATH 3A,MATH 3A,None,MATH 3A,MATH 3A,MATH 3A,None,MATH 11
+None,MATH 3B,MATH 3B,MATH 3B,MATH 3B,MATH 53,MATH 021C,None,None,MATH 3C,MATH 3A,MATH 3B,MATH 3B,MATH 32A,MATH 3C,MATH 3B,MATH 3B,MATH 022,MATH BB,MATH 9B,MATH BB,MATH 11,MATH 18,MATH 3,MATH 3B,MATH 290A,None,None,MATH 3B,MATH 3B,None,MATH 3B,MATH 3B,MATH 3B,None,MATH 3A
+None,MATH 3C,MATH 3E,MATH 3C,MATH 3C,MATH 3A,MATH 021D,None,None,MATH 3F,MATH 3C,None,MATH 32A,MATH 334A,MATH 3F,None,MATH 3C,MATH 3C,MATH 10A,MATH 9C,MATH 10A,MATH 18,MATH 290A,MATH 3A,MATH 3C,MATH 20B,None,None,MATH 3,MATH 3,None,MATH 3,MATH 11,MATH 11,None,MATH 3B
+None,MATH 3E,MATH 3C,MATH 3E,MATH 3E,MATH 3B,MATH 3F,None,None,MATH 2A,MATH 3,None,MATH 3C,MATH 338,MATH 318,None,MATH 3E,MATH 3,MATH 10B,MATH 11,MATH 31,MATH 20A,MATH 200,MATH 3B,MATH 20B,MATH 20D,None,None,MATH 3F,MATH 3F,None,MATH <—,MATH 3,MATH 3,None,MATH 3
+None,MATH 3F,None,MATH 3F,MATH 3F,MATH 3,None,None,None,MATH 2D,MATH 3F,None,MATH 3,MATH 3B,MATH 32B,None,MATH 3F,MATH 3F,None,MATH 10A,None,None,MATH 20D,MATH 3C,MATH 200,MATH 3,None,None,MATH 6A,MATH 6A,None,MATH 20,MATH 3C,MATH 3C,None,None
+None,None,None,MATH 11,None,MATH 3F,None,None,None,MATH 3A,None,None,MATH 3F,MATH 3C,MATH 334A,None,None,None,None,MATH 10B,None,None,MATH 3,None,None,MATH 3B,None,None,None,None,None,MATH 3C,None,None,None,None
+None,None,None,None,None,None,None,None,None,MATH 11,None,None,MATH 61,MATH 3E,None,None,None,None,None,MATH 3,None,None,MATH 3A,None,None,MATH 3C,None,None,None,None,None,MATH 11,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,MATH 3F,None,None,None,None,None,None,None,None,MATH 3C,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,MATH 61,None,None,None,None,None,None,None,None,MATH 3F,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+CIS,CIS 61,CIS 20,CIS 20,CIS 61,CIS 61,CIS 36A,None,None,CIS 12,CIS 27,CIS 27,CIS 61,CIS 61,CIS course,CIS 3,CIS 20,CIS 36A,CIS 25,CIS 25,CIS 25,CIS 11,CIS 36A,CIS 36A,CIS 36A,CIS 36A,None,None,CIS 24,CIS 24,None,CIS 20,CIS 27,CIS 27,None,CIS 27
+None,CIS 25,CIS 25,CIS 25,CIS 25,CIS 25,None,None,None,CIS 36A,None,None,None,None,CIS 3,None,CIS 27,CIS 27,CIS 10B,CIS 10B,CIS 10B,CIS 3,None,None,None,None,None,None,CIS 32,CIS 32,None,CIS 25,CIS 25,CIS 25,None,CIS 25
+None,CIS 27,CIS 27,CIS 27,CIS 27,CIS 27,None,None,None,None,None,None,None,None,None,None,None,None,CIS 61,CIS 27,CIS 10C,None,None,None,None,None,None,None,None,None,None,CIS 27,CIS 20,CIS 20,None,CIS 20
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,CIS 10€,CIS CIS,None,None,None,None,None,None,None,None,None,None,None,CIS 61,None,None,None,CIS 61
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+PHYS,None,None,PHYS 4A,None,PHYS 4B,PHYS 4A,None,None,PHYS 4A,PHYS A,None,PHYS 4B,PHYS 4B,PHYS 4A,None,PHYS 008,PHYS 008L,PHYS 40A,None,PHYS 40A,None,PHYS 2B,PHYS 4A,PHYS 4A,PHYS 2A,None,None,PHYS 4A,PHYS 4A,None,PHYS 4A,None,None,None,None
+None,None,None,PHYS 4B,None,PHYS 7C,PHYS 4C,None,None,PHYS PHYS,PHYS 7D,None,PHYS 4C,PHYS 4C,PHYS 4B,None,PHYS 008L,PHYS 009,PHYS 40B,None,PHYS 40B,None,PHYS 2C,PHYS 4B,None,PHYS 2C,None,None,PHYS 4B,PHYS 4B,None,PHYS 4B,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,PHYS 009,PHYS 4A,PHYS 4B,None,PHYS 4B,None,PHYS 4B,None,None,PHYS 4A,None,None,PHYS 3,PHYS 3,None,PHYS 4C,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,PHYS OO9L,PHYS 4B,PHYS 40C,None,PHYS 40C,None,PHYS 4A,None,None,PHYS 4B,None,None,PHYS 3L,PHYS 3L,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,PHYS 4C,None,PHYS 4C,None,PHYS 4C,None,None,PHYS 4C,None,None,PHYS 4C,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+CHEM,None,None,None,None,CHEM CHEM,CHEM 1B,None,None,None,None,None,None,None,None,None,CHEM 1A,None,CHEM 1LA,None,None,None,None,CHEM 1A,CHEM 1A,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 1A,None,None,None,None,None,None,None,None,None,None,None,None,CHEM 1A,None,None,None,None,CHEM 1B,CHEM 1B,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 1B,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,CHEM 12A,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 3A,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 3B,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 3BL,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 3AL,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,CHEM 12B,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+BIOL,None,None,None,None,BIOL 1A,None,None,None,None,None,None,None,None,None,None,BIOL 1B,BIOL 10,None,None,None,None,None,BIOL 1A,BIOL 1A,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,BIOL BIOL,None,None,None,None,None,None,None,None,None,None,BIOL 10,BIOL 11,None,None,None,None,None,BIOL 1B,BIOL 1B,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ENGL,None,None,None,None,ENGL 1A,ENGL 001,None,None,None,None,None,ENGL additional,ENGL additional,ENGL 3,None,ENGL 1A,ENGL 1A,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,ENGL 1B,ENGL 5,None,None,None,None,None,ENGL 5,ENGL 5,ENGL additional,None,ENGL 1AS,ENGL 1AS,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,ENGL 5,ENGL 5,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Non-Artic,COMPSCI 61C,None,None,COMPSCI 61C,COMPSCI 61C,COM 001,None,None,SCI 6B,STATS 67,SCI 45C,None,None,None,MATH 31AL,MATH 032,CSE 020,None,None,None,CSE 8B,CSE 8A,CSE 8A,CSE 8A,ECE 35,None,None,ECE 1A,None,None,ECE 13,None,None,None,ECE 13
+None,None,None,None,COMPSCI 70,COMPSCI 70,None,None,None,None,CSE 90,SCI 51,None,None,None,MATH 70,CSE 015,CSE 021,None,None,None,None,CSE 8B,CSE 8B,CSE 8B,ECE 45,None,None,ECE 1B,None,None,None,None,None,None,ARTG 80G
+None,None,None,None,None,None,None,None,None,None,SCI 45C€,None,None,None,None,None,CSE 022,None,None,None,None,None,CSE 12,CSE 12,CSE 12,ECE 65,None,None,ECE 10A,None,None,None,None,None,None,ARTG 80H
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,CSE 024,None,None,None,None,None,CSE 15L,CSE 15L,CSE 15L,CSE 8A,None,None,ECE 10AL,None,None,None,None,None,None,CMPM 80K
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,CSE 21,CSE 8B,None,None,ECE 10B,None,None,None,None,None,None,FILM 80V
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,CSE 30,CSE 12,None,None,ECE 10BL,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,CSE 15L,None,None,ECE 10C,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,ECE 10CL,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Links,https://assist.org/transfer/report/26276320,https://assist.org/transfer/report/26355807,https://assist.org/transfer/report/26545549," https://assist.org/transfer/report/26276320
+"," https://assist.org/transfer/report/26277239
+"," https://assist.org/transfer/report/26364282
+"," https://assist.org/transfer/report/26365504
+"," https://assist.org/transfer/report/26507091
+"," https://assist.org/transfer/report/26288236
+"," https://assist.org/transfer/report/26288161
+"," https://assist.org/transfer/report/26288465
+"," https://assist.org/transfer/report/26090233
+"," https://assist.org/transfer/report/26089232
+"," https://assist.org/transfer/report/26089343
+"," https://assist.org/transfer/report/26090123
+"," https://assist.org/transfer/report/26520102
+"," https://assist.org/transfer/report/26520130
+"," https://assist.org/transfer/report/26426150
+"," https://assist.org/transfer/report/26426489
+"," https://assist.org/transfer/report/26426602
+"," https://assist.org/transfer/report/26386064
+"," https://assist.org/transfer/report/26380249
+"," https://assist.org/transfer/report/26380311
+"," https://assist.org/transfer/report/26380376
+"," https://assist.org/transfer/report/26380483
+"," https://assist.org/transfer/report/26383512
+"," https://assist.org/transfer/report/26383786
+"," https://assist.org/transfer/report/26545550
+"," https://assist.org/transfer/report/26545549
+"," https://assist.org/transfer/report/26545527
+"," https://assist.org/transfer/report/26355809
+"," https://assist.org/transfer/report/26355807
+"," https://assist.org/transfer/report/26355810
+"," https://assist.org/transfer/report/26355901
+"," https://assist.org/transfer/report/26355814
+"
